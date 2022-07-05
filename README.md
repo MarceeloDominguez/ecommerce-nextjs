@@ -12,11 +12,9 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Libraries used:
 
-
 [tailwindui](https://tailwindui.com/) <br>
-[tailwindui](https://tailwindui.com/) <br>
-[tailwindui](https://tailwindui.com/) <br>
-[tailwindui](https://tailwindui.com/) <br>
-tailwindcss, react-icons, framer-motion, react-scroll
+[react-icons](https://react-icons.github.io/react-icons/) <br>
+[framer-motion](https://www.framer.com/motion/) <br>
+[react-scroll](https://www.npmjs.com/package/react-scroll) <br>
 
 
