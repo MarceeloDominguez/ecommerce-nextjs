@@ -13,6 +13,10 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 ## Libraries used:
 
 ```
+[tailwindui](https://tailwindui.com/) <br>
+[tailwindui](https://tailwindui.com/) <br>
+[tailwindui](https://tailwindui.com/) <br>
+[tailwindui](https://tailwindui.com/) <br>
 tailwindcss, react-icons, framer-motion, react-scroll
 ```
 
