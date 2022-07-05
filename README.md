@@ -2,8 +2,6 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-First, run the development server:
-
 ```
 1- Clone repository git clone https://github.com/MarceeloDominguez/ecommerce-nextjs.git
 2- Install dependencies with npm install
@@ -11,4 +9,9 @@ First, run the development server:
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+Libraries used:
+```
+tailwindcss, react-icons, framer-motion, react-scroll
+```
 
