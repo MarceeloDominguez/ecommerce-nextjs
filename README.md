@@ -10,7 +10,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-Libraries used:
+##Libraries used:
+
 ```
 tailwindcss, react-icons, framer-motion, react-scroll
 ```
